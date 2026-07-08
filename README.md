@@ -31,7 +31,7 @@ This repository contains my Core Java learning journey and practice programs.
 ## 📈 Progress
 
 - ✅ Variables & Data Types
-- ⬜ Operators
+- ✅ Operators
 - ⬜ Conditional Statements
 - ⬜ Loops
 - ⬜ Methods

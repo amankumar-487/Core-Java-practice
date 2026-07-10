@@ -32,7 +32,7 @@ This repository contains my Core Java learning journey and practice programs.
 
 - ✅ Variables & Data Types
 - ✅ Operators
-- ⬜ Conditional Statements
+- ✅ Conditional Statements
 - ⬜ Loops
 - ⬜ Methods
 - ⬜ Arrays

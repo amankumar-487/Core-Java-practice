@@ -33,8 +33,8 @@ This repository contains my Core Java learning journey and practice programs.
 - ✅ Variables & Data Types
 - ✅ Operators
 - ✅ Conditional Statements
-- ⬜ Loops
-- ⬜ Methods
+- ✅ Loops
+- ✅ Methods
 - ⬜ Arrays
 - ⬜ Strings
 - ⬜ OOP Concepts

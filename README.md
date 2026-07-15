@@ -35,7 +35,7 @@ This repository contains my Core Java learning journey and practice programs.
 - ✅ Conditional Statements
 - ✅ Loops
 - ✅ Methods
-- ⬜ Arrays
+- ✅ Arrays
 - ⬜ Strings
 - ⬜ OOP Concepts
 - ⬜ Exception Handling
